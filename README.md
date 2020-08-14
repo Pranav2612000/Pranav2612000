@@ -1,3 +1,5 @@
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 ### Pranav Joglekar
 [![Twitter Badge](https://img.shields.io/badge/-Pranav_Joglekar-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/joglekar_pranav)](https://twitter.com/joglekar_pranav)  [![Linkedin Badge](https://img.shields.io/badge/-Pranav_Joglekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-joglekar//)](https://www.linkedin.com/in/pranav-joglekar/) [![Gmail Badge](https://img.shields.io/badge/-pranav26joglekar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranav26joglekar@gmail.com)](mailto:pranav26joglekar@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +19,8 @@ Visit https://pranavjoglekarcodes.web.app/ to know more
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Pranav2612000&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Pranav2612000&show_icons=true)  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav2612000.Pranav2612000)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
