@@ -4,7 +4,11 @@
 ### About
 
 #### Full-Stack Developer :zap: | Open-Source Contributor :fire: 
--  **Languages :** C, C++, Python, Javascript, PHP  
+Visit https://pranavjoglekarcodes.web.app/ to know more
+
+##### Currently, trying to enter the field of infosec and cybersecurity. You'll find me trying to crack machines on hackthebox and tryhackme. Searching for a partner. DM if interested.
+
+-  **Languages :** C, C++, Python, Javascript, PHP, Java(Spring)  
 -  **Web Development :** FullStack - MERN & LAMP, Frontend - MaterialUI, Antd Miscellaneous: Redux, JQuery, WebRTC
 -  **Miscellaneous :** git, nginx, linux, bash, MongoDB, Web Scraping, OpenCV, ElectronJS
 -  **Tools :** BurpSuite, Metasploit, NMap, fuff, sqlmap, john the ripper
