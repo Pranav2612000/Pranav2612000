@@ -19,7 +19,11 @@ Visit https://pranavjoglekarcodes.web.app/ to know more
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Pranav2612000&show_icons=true)  
+![github stats](https://github-readme-stats.vercel.app/api?username=Pranav2612000&show_icons=true&count_private=true&include_all_commits=true&hide=stars)  
+
+<!--<a href="https://github.com/Pranav2612000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2612000&count_private=true" />
+</a>-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav2612000.Pranav2612000)
 
